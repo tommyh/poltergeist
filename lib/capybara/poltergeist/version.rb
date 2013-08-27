@@ -1,5 +1,5 @@
 module Capybara
   module Poltergeist
-    VERSION = "1.0.2.iframe-patches.1"
+    VERSION = "1.0.2.01"
   end
 end
